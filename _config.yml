@@ -56,17 +56,40 @@ education:
    University: Uttar Pradesh Technical University
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+RecentProjects:
+   profileurl: http://gaurav20100.wixsite.com/gaurav/projects
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    •	Project #1:  Survey                                                                                   July 2016 – Till date
+Client: SBI, HDFC, ICICI, Axis Bank etc.    
+Tool Used: C#, ASP.NET, MVC, SQL Server, ADO.NET and JQuery, AngularJs
+Description: If you are providing some services, you need to keep track of those services by collecting inputs from customers. These inputs may be via Email, Phone call, Facebook. This enables an organisation to expand its customer base and retain them. Survey is all about customer experience.
+  Responsibilities:
+•	Managing and delivering the project being a module lead.
+•	Involved in design and development
+•	Writing Unit Tests
+
+•	Project #2/3:  Outlook 365 Integration /   Email Syndication                May 2015 – June 2016                                          
+Domain: Customer Relationship Management
+Client: SBI, HDFC, ICICI, Axis Bank etc.    
+Tool Used: C#, ASP.NET, MVC, SQL Server, ADO.NET and JQuery.
+Description: In Outlook Integration we brought whole CRM experience to single window. While reading an Email one can search/create possible Leads/Contacts by just clicking single button.   
+Email syndication is about connecting the Email Accounts with CRM. It converts email in to Lead/Case.
+Email syndication is useful for customer support executives. An organisation may get thousands of emails every day regarding their Product’s Complaint/Feedback. It is nearly impossible to track each and every email.
+
+  Responsibilities:
+•	Managing the project being a second module lead.
+•	Completing modules and requirements, solving complex problems and guiding new developers about the module.
+
+
+•	Project #4:  CRMnext                                                                 January 2015 – Till date
+Domain: Customer Relationship Management
+Client: SBI, HDFC, ICICI, Axis Bank etc.    
+Tool Used: C#, ASP.NET, MVC, SQL Server, ADO.NET and JQuery.
+Description: CRMnext has established technology and practice leadership in multiple industry verticals to help its customers boost profitability by improving all customer related processes. It works closely with its customers, leveraging their extensive cross-domain expertise to enhance business efficiency by improving processes and practices. 
+  Responsibilities:
+•	Responsible for Coding ,Customer bug fixing and Unit testing.
+•	Completing modules and requirements which have been assigned to me.
+
 
 #List of interesting Github repo/projects to include - optional
 github:
