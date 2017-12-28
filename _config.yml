@@ -73,10 +73,10 @@ RecentProjects:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - ItzGaurav/CodeSharing   // 50+ conceptual Programs
- - ItzGaurav/Angular-2     // Angular Project with CRUD operation
- - ItzGaurav/ionic-map     // Mobile App using Google Map Api
- - ItzGaurav/Ionic-fireBase  // Mobile App- saving data at fireBase(Google databse)
+ - ItzGaurav/CodeSharing
+ - ItzGaurav/Angular-2
+ - ItzGaurav/ionic-map
+ - ItzGaurav/Ionic-fireBase
 
 
 
