@@ -24,10 +24,12 @@ skills:
  - ASP.NET
  - ASP.NET MVC
  - WebApi
+ -JavaScript/JQuery
  - Angular
  - NodeJS
  - SQL
  - REST
+ -SOLID Principles
  - Tech Architecture
 
 #Work experience is required
@@ -75,9 +77,10 @@ RecentProjects:
 github:
  - ItzGaurav/Concepts
  - ItzGaurav/Angular-2
- - ItzGaurav/ionic-map
+ -ItzGaurav/Angular2-ReactiveForm
  - ItzGaurav/Ionic-fireBase
-
+ - ItzGaurav/Ionic-CameraAccess
+ - ItzGaurav/ionic-GoogleMap
 
 
 #Mobile apps section is optional
