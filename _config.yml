@@ -32,6 +32,7 @@ skills:
  - REST
  - SOLID Principles
  - Tech Architecture
+ - Python
 
 #Work experience is required
 roles:
@@ -39,7 +40,7 @@ roles:
    start: March 2017
    end: Ongoing
    employer: Marlabs Innovatioon, Bangalore
-   description: I am working on ELMS Domain and as a MEAN stack Developer (Angular,Node, Mongo).
+   description: I am working on Learning and Training Management software and using MVC, WebApi, JavaScript, Angular, Typescript, Bootstrap and SqlServer.
  - title: Software Engineer
    start: November 2014
    end: March 2017
