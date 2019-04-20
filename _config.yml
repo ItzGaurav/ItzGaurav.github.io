@@ -28,11 +28,17 @@ skills:
  - JQuery
  - Angular
  - NodeJS
- - SQL
- - REST
+ - MongoDB
+ - SQL Server
  - SOLID Principles
- - Tech Architecture
- - Python
+ - Azure
+ - Azure IoT hub
+ - Azure Event Hub
+ - Azure IoT Edge
+ - Device Twins
+ - Azure DPS
+ - Blob Data Storage
+ - CosmosDB
 
 #Work experience is required
 roles:
@@ -40,12 +46,12 @@ roles:
    start: March 2017
    end: Ongoing
    employer: Marlabs Innovatioon, Bangalore
-   description: I am working on Learning and Training Management software and using MVC, WebApi, JavaScript, Angular, Typescript, Bootstrap and SqlServer.
+   description: I have involved in end-to-end development of software applications and IoT application from requirement analysis to system study, designing, coding, unit testing, debugging, documentation and implementation.
  - title: Software Engineer
    start: November 2014
    end: March 2017
    employer: CRMnext (Acidaes Solution Pvt. Ltd.)
-   description: I have worked on multiple object of CRM Product and got good knowledge of CRM Domain with MVC, JQuery, SqlServer experience.
+   description: I have worked on multiple module of CRM Product and got good knowledge of CRM Domain with MVC, JQuery, SqlServer experience.
  - title: Junior Engineer
    start: September 2013
    end: November 2014
@@ -94,6 +100,7 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
+   <strong>IOT</strong>: I am experienced in IoT application development  like Smart Fan, Smart Socket, Smart AC. <br/><br/>
    <strong>ASP.NET</strong>: I am experienced in a variety of .net Projects. I have good knowledge of asp.net MVC. <br/><br/>
    <strong>Web Development</strong>: My server side web development experience has largely been based on the  MVC framework. I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git,TFS, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
