@@ -9,12 +9,12 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://skill-explorer.blogspot.com/
+ #- title: Blog
+  # url: http://skill-explorer.blogspot.com/
  - title: GitHub
    url: https://github.com/ItzGaurav
- - title: StackOverflow
-   url: https://stackoverflow.com/users/9121809/gaurav
+ #- title: StackOverflow
+  # url: https://stackoverflow.com/users/9121809/gaurav
  - title: LinkedIn
    url: https://www.linkedin.com/in/gaurav20100
 
